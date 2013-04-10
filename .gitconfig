@@ -1,0 +1,5 @@
+[user]
+	name = Scott Dickey
+	email = scott@grokh.com
+[core]
+	excludesfile = /home/trance/.gitignore_global
