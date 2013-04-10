@@ -1,4 +1,4 @@
 grokhome
 ========
 
-Files for my personal Linux ~/ setup
+Files for my personal CentOS 6 ~/ setup
