@@ -1,3 +1,4 @@
+#!/bin/sh
 cp -i .bashrc ~/
 cp -i .bash_profile ~/
 cp -i .vimrc ~/
