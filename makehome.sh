@@ -8,3 +8,5 @@ cp -i .tmux.conf ~/
 cp -ir .vim ~/
 mkdir -p ~/.vim/backup
 mkdir -p ~/.vim/tmp
+sudo iptables-restore < iptables
+sudo /sbin/service iptables save
