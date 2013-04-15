@@ -7,7 +7,7 @@ fi
 
 # User specific environment and startup programs
 
-export GOPATH=~/go/
+export GOPATH=$HOME/go/
 export GOROOT=/usr/local/go
 PATH=$PATH:$HOME/bin:$GOROOT/bin:$GOPATH/bin
 export PATH
