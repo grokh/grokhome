@@ -9,7 +9,7 @@ fi
 alias la='ll -Ah'
 alias vi='vim'
 alias gg='cd $GOPATH/src/github.com/grokh/gobot'
-alias bot='cd /srv/bot/;./tt++ katumi.tin'
+alias bot='cd /srv/bot/;tt++ katumi.tin'
 alias tt='cd /srv/bot/logs/;tail -n 40 tells.log'
 alias tb='cd /srv/bot/logs/;tail -n 40 bot.log'
 alias db='cd /srv/bot/;sqlite3 toril.db'
