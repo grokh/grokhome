@@ -8,6 +8,7 @@ cp -i .tmux.conf ~/
 cp -ir .vim ~/
 mkdir -p ~/.vim/backup
 mkdir -p ~/.vim/tmp
-sudo ln -s /home/trance/files/grokhome/tm.sh /usr/local/bin/tm
+sudo ln -s $HOME/files/grokhome/tm.sh /usr/local/bin/tm
+sudo ln -s $HOME/files/grokhome/bot.sh /usr/local/bin/bot
 sudo iptables-restore < iptables
 sudo /sbin/service iptables save
