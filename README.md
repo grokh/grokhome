@@ -1,4 +1,4 @@
 grokhome
 ========
 
-Files for my personal CentOS 7 ~/ setup
+Files for my personal Debian 10 ~/ setup
